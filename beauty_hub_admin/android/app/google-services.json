@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "569788715936",
+    "firebase_url": "https://selling-food-store-default-rtdb.firebaseio.com",
+    "project_id": "selling-food-store",
+    "storage_bucket": "selling-food-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569788715936:android:078f3c46f66109c2a60ac5",
+        "android_client_info": {
+          "package_name": "com.example.beauty_hub_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569788715936-ovvcflklr4omtlr8411mkjmmcih3rvd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5OTRyFDg2dUeLP85BNXGzSqCVJiOtmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569788715936-ovvcflklr4omtlr8411mkjmmcih3rvd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569788715936-vu9s946v686nrmqv8ccm0k00opc25d73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sellingFoodStore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569788715936:android:4fb25c18a3be6b60a60ac5",
+        "android_client_info": {
+          "package_name": "com.example.selling_food_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569788715936-ovvcflklr4omtlr8411mkjmmcih3rvd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5OTRyFDg2dUeLP85BNXGzSqCVJiOtmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569788715936-ovvcflklr4omtlr8411mkjmmcih3rvd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569788715936-vu9s946v686nrmqv8ccm0k00opc25d73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sellingFoodStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

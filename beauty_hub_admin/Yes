@@ -1,0 +1,60 @@
+{
+  "rules": {
+    "Products": {
+      ".write": true,
+      ".read": true,
+    },
+    "DetailProducts": {
+      ".write": true,
+      ".read": true,
+    },
+    "Brands": {
+      ".write": true,
+      ".read": true,
+    },
+    "DetailBrands": {
+      ".write": false,
+      ".read": true,
+    },
+    "Credentials": {
+      ".write": true,
+      ".read": true,
+    },
+    "Users": {
+      ".write": true,
+      ".read": true,
+    },
+    "RequestOrders": {
+      ".write": true,
+      ".read": true,
+    },
+    "Carts": {
+      ".write": true,
+      ".read": true,
+    },
+    "Categories": {
+      ".write": false,
+      ".read": true,
+    },
+    "OrderForBrand": {
+      ".write":true,
+      ".read": true,
+    },
+    "Reviews": {
+      ".write":true,
+      ".read": true,
+    },
+    "Orders": {
+      ".write": true,
+      ".read": true,
+    },
+    "userOrders": {
+      ".write": true,
+      ".read": true,
+    },
+    "storeOrders": {
+      ".write": true,
+      ".read": true,
+    }
+  }
+}
