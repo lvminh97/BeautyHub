@@ -72,9 +72,9 @@ class AddProductPage extends GetView<AddProductController> {
                 ])),
             const SizedBox(height: 8.0),
             TextFormField(
-              controller: controller.nameController,
+              controller: controller.priceController,
               decoration: const InputDecoration(
-                hintText: 'Nhập tên sản phẩm',
+                hintText: 'Nhập giá sản phẩm',
                 border: OutlineInputBorder(),
                 contentPadding: EdgeInsets.symmetric(horizontal: 12.0),
               ),
@@ -90,10 +90,10 @@ class AddProductPage extends GetView<AddProductController> {
             ),
             const SizedBox(height: 8.0),
             TextFormField(
-              controller: controller.nameController,
+              controller: controller.descController,
               maxLines: 5,
               decoration: const InputDecoration(
-                hintText: 'Nhập tên sản phẩm',
+                hintText: 'Nhập mô tả sản phẩm',
                 border: OutlineInputBorder(),
                 contentPadding: EdgeInsets.symmetric(horizontal: 12.0),
               ),
